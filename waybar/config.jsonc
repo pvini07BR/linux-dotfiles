@@ -31,7 +31,7 @@
 		"format-source": " {volume}%",
 		"format-source-muted": "",
 		"format-icons": {
-		    "default": ["", "", ""]
+		    "default": ["", "", " "]
 		},
 	},
 	"tray": {
@@ -41,7 +41,7 @@
 		"format": " {usage}%",
 	},
 	"memory": {
-        	"format": " {}%"
+        	"format": " {}%"
     	},
     	"temperature": {
 		"thermal-zone": 2,
